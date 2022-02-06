@@ -1,7 +1,7 @@
 
 
 ---
-**All information in this repo is should be considered unsubstantiated and you should verify all facts before using this repo in whole or in part.**
+**All information in this repo should be considered unsubstantiated and you should verify all facts before using this repo in whole or in part.**
 
 ---
 
@@ -18,6 +18,6 @@ power supply output:
 
 
 ---
-**All information in this repo is should be considered unsubstantiated and you should verify all facts before using this repo in whole or in part.**
+**All information in this repo should be considered unsubstantiated and you should verify all facts before using this repo in whole or in part.**
 
 ---
